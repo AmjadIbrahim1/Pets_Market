@@ -84,7 +84,6 @@ Pet-Store/
 
 ## 🌐 Live Demo
 
-> *(Optional: Add your GitHub Pages link here)*  
 🔗 [View Live Demo](https://amjadibrahim1.github.io/Pets_Market/)
 
 ---
@@ -97,5 +96,5 @@ This project helped reinforce core concepts in responsive web design. I gained h
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
+**[Amjad Ibrahim]**  
 [GitHub](https://github.com/amjadibrahim1)
